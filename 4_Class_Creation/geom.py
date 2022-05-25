@@ -6,7 +6,7 @@
 class Circle (object):
 
         #Class Object Attributes
-        #Class Attributes - instanciated for all class objects
+        #Class Attributes - instantiated for all class objects
         pi = 3.14
 
         #Class instantiation method
